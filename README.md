@@ -30,8 +30,6 @@ I'm Syed Uzair😉, Full Stack Engineer 👨🏻‍💻 from Pakistan. I've work
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzaircs2022&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
-<a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=uzaircs2022&theme=material-palenight"/>
-</a>
+
 
 ------
