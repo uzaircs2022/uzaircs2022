@@ -10,7 +10,7 @@ I'm Syed Uzair😉, Full Stack Engineer 👨🏻‍💻 from Pakistan. I've work
 
 ### Current Status :
 
-- 💼 I’m working as a <strong>Full Stack Engineer</strong> at <strong>Carbify</strong>.
+- 💼 I’m working as a <strong>Mid-level Backend Engineer</strong> at <strong>Indrive</strong>.
 - 🤔 My research interests are in <strong>ML</strong> and latest <strong>Web Technologies</strong> etc
 - 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry
 - 💬 Feel free to discuss with me about <strong>Web Development, Blockchain Development and NLP</strong>
