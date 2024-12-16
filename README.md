@@ -6,7 +6,7 @@ I'm Syed Uzair😉, Full Stack Engineer 👨🏻‍💻 from Pakistan. I've work
 
 ### How to reach me: 
 <a href="mailto: syed.uzaair@gmail.com">
-<img src="https://img.shields.io/badge/-syeduzair222.sus@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/syed-uzair1/"><img src="https://img.shields.io/badge/syeduzair-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
+<img src="https://img.shields.io/badge/-syed.uzaair@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/syed-uzair1/"><img src="https://img.shields.io/badge/syeduzair-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
 
 ### Current Status :
 
