@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Syed Uzair😉, Full Stack Engineer 👨🏻‍💻 from Pakistan. I've worked in small startups where I built the whole application from scratch as well as in big teams.
+I'm Syed Uzair😉, Full Stack Engineer 👨🏻‍💻 from Pakistan. I've worked in small startups where I built the whole application from scratch and in big teams with well-structured processes.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Backend+Technologies+with+5%2B+Years+of+Experience;FrontEnd+Technologies+with+4%2B+Years+of+Experience;DevOps+with+4%2B+Years+of+Experience)](https://git.io/typing-svg)
 
 ### How to reach me: 
-<a href="mailto: syeduzair222.sus@gmail.com">
+<a href="mailto: syed.uzaair@gmail.com">
 <img src="https://img.shields.io/badge/-syeduzair222.sus@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/syed-uzair1/"><img src="https://img.shields.io/badge/syeduzair-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
 
 ### Current Status :
